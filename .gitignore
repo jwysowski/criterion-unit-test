@@ -1,0 +1,5 @@
+.vscode
+bin
+obj
+test/bin
+uncrustify.cfg
